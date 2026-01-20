@@ -101,11 +101,7 @@
             <button type="submit" class="btn-login">ログイン</button>
         </form>
 
-        <div class="info">
-            <p><strong>テストアカウント:</strong></p>
-            <p>ID: test1 / PW: test1（管理者）</p>
-            <p>ID: test2 / PW: test2（一般ユーザー）</p>
-        </div>
+        
     </div>
 </body>
 </html>
