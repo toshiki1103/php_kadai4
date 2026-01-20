@@ -1,0 +1,24 @@
+# 環境変数ファイル（機密情報を含む）
+.env
+
+# OS ファイル
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# アップロードされた動画ファイル
+uploads/*
+!uploads/.gitkeep
+
+# キャッシュ
+*.log
+.tmp/
+
+# テンポラリ
+temp/
+tmp/
